@@ -10,10 +10,10 @@ namespace Neoan3\Apps;
 
 
 /**
- * Class Aes
+ * Class CryptoJsAes
  * @package Neoan3\Apps
  */
-class Aes {
+class CryptoJsAes {
     /**
      * Decrypt data from a CryptoJS json encoding string
      *
