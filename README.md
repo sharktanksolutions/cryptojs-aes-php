@@ -1,5 +1,5 @@
 ## This is a fork of [brainfoolong/cryptojs-aes-php](https://github.com/brainfoolong/cryptojs-aes-php)
-### Please find the original author's license there and consider showing your gratitude:
+### Please find the full original author's license (MIT) there and consider showing your gratitude:
 [brainfoolong's Patreon](https://www.patreon.com/brainfoolong) or via [brainfoolong's PayPal](https://www.paypal.me/brainfoolong)
 
   
