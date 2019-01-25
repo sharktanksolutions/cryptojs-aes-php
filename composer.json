@@ -1,0 +1,23 @@
+{
+  "name": "neoan3-apps/crypto-js",
+  "description": "neoan3 cryptojs class",
+  "version": "0.0.2",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Stefan Roehrl",
+      "homepage": "http://neoan.us"
+    },
+    {
+      "name": "Roland Eigelsreiter",
+      "homepage": "https://github.com/brainfoolong",
+      "role": "developer"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "Neoan3\\Apps\\": "./"
+    }
+
+  }
+}
