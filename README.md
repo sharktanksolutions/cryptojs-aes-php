@@ -6,3 +6,5 @@
 # CryptoJS 3.x AES encryption/decryption on client side with Javascript and on server side with PHP
 
 This fork provides a wrapper for composer-use
+
+`composer require neoan3-apps/crypto-js`
