@@ -8,3 +8,7 @@
 This fork provides a wrapper for composer-use
 
 `composer require neoan3-apps/crypto-js`
+
+# When using in neoan3
+
+inclcude vendor/neoan3-apps/crypto-js/aes-json-format.js in your configuration (frame)
