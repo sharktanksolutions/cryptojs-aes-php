@@ -1,22 +1,17 @@
 {
-  "name": "neoan3-apps/crypto-js",
-  "description": "neoan3 cryptojs class",
+  "name": "sharktanksolutions/cryptojs-aes-php",
+  "description": "sharktanksolutions cryptojs class",
   "version": "0.0.1",
   "license": "MIT",
   "authors": [
     {
-      "name": "Stefan Roehrl",
-      "homepage": "http://neoan.us"
-    },
-    {
-      "name": "Roland Eigelsreiter",
-      "homepage": "https://github.com/brainfoolong",
-      "role": "developer"
+      "name": "Osama",
+      "homepage": "https://github.com/sharktanksolutions"
     }
   ],
   "autoload": {
     "psr-4": {
-      "Neoan3\\Apps\\": "./"
+      "Sharktanksolutions\\Apps\\": "./"
     }
 
   }
